@@ -1,0 +1,18 @@
+.recipe{
+    display: grid;
+    grid-template-columns: 6fr 6fr;
+    width: 80%;
+    text-align: center;
+    gap: 2rem;
+    /* background-color: #ffff; */
+    border-radius: 0.6rem;
+/* flex-wrap: wrap; */
+    /* flex-direction: column; */
+  }
+  @media (max-width : 768px) {
+    .recipe{
+        grid-template-columns: 12fr;
+        margin: auto;
+    }
+  }
+ 
