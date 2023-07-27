@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.3ff1ff81.css",
-    "main.js": "/static/js/main.413e5f2a.js",
-    "static/js/787.8eaab58f.chunk.js": "/static/js/787.8eaab58f.chunk.js",
-    "index.html": "/index.html",
-    "main.3ff1ff81.css.map": "/static/css/main.3ff1ff81.css.map",
-    "main.413e5f2a.js.map": "/static/js/main.413e5f2a.js.map",
-    "787.8eaab58f.chunk.js.map": "/static/js/787.8eaab58f.chunk.js.map"
+    "main.css": "/receipe-app/static/css/main.3ff1ff81.css",
+    "main.js": "/receipe-app/static/js/main.af4902ba.js",
+    "static/js/787.8eaab58f.chunk.js": "/receipe-app/static/js/787.8eaab58f.chunk.js",
+    "index.html": "/receipe-app/index.html",
+    "main.3ff1ff81.css.map": "/receipe-app/static/css/main.3ff1ff81.css.map",
+    "main.af4902ba.js.map": "/receipe-app/static/js/main.af4902ba.js.map",
+    "787.8eaab58f.chunk.js.map": "/receipe-app/static/js/787.8eaab58f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ff1ff81.css",
-    "static/js/main.413e5f2a.js"
+    "static/js/main.af4902ba.js"
   ]
 }
